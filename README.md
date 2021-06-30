@@ -1,7 +1,7 @@
 # TinDog
 [Site Link](https://sid1608.github.io/TinDog/index.html)
 
-# Snippets
+## Snippets
 ![](snippets/img1.png)
 ![](snippets/img2.png)
 ![](snippets/img3.png)
